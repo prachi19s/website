@@ -1,0 +1,2 @@
+[dev]
+slave1 ansible_host=172.31.90.10
